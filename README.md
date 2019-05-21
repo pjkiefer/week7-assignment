@@ -41,3 +41,9 @@ Above are the requirements for the project. For this week however, you'll need t
 
 * Keep the scope of your project small. A small, completed project is much better than a large, incomplete project. You can create a list of "nice to have" features that you can work on if you have time.
 * Ensure you have plenty of buffer time in your schedule. Life events pop up, and tasks usually take longer than initially estimated.
+
+## Submitting your Project Idea
+
+1. Fork this repository
+2. Add your project name, elevator pitch, wireframes, dependencies, task list, and plan to the Github repo (you can add a markdown file + images or links to images)
+3. Create a pull request
