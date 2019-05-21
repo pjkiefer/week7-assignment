@@ -1,8 +1,8 @@
 # Week 7 Assignment
 
-Your assignment for this week is to think of a capstone project idea and create a plan for the project.
+Your assignment for this week is to think of a final project idea and create a plan for the project.
 
-## Capstone Project Requirements
+## Final Project Requirements
 
 * The project must be a React application, bootstrapped with `create-react-app`
 * Your app must be created and visible in a Github repo under your Github account
